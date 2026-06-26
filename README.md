@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>patel khwaish | Web Developer Portfolio</title>
+<title>patel khwaish | </title>
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
@@ -214,9 +214,7 @@ footer{
     <h2 class="section-title">About Me</h2>
     <div class="about">
         <p>
-            I am an IT Diploma Student passionate about Web Development,
-            Cyber Security and Modern Technologies.
-            I enjoy building responsive websites and learning new tools.
+           I am a Diploma Information Technology student with a strong interest in Cyber Security and Information Technology. I am passionate about learning emerging technologies, solving technical problems, and continuously improving my technical skills. I am a dedicated, quick learner who enjoys working in collaborative environments and aims to build a successful career in the cybersecurity field.
         </p>
     </div>
 </section>
@@ -226,14 +224,12 @@ footer{
     <h2 class="section-title">Skills</h2>
 
     <div class="skills-container">
-        <div class="skill">HTML5</div>
-        <div class="skill">CSS3</div>
-        <div class="skill">JavaScript</div>
+        <div class="skill">HTML</div>
+        <div class="skill">CSS</div>
         <div class="skill">Java</div>
         <div class="skill">SQL</div>
         <div class="skill">JDBC</div>
         <div class="skill">JSP</div>
-        <div class="skill">Git & GitHub</div>
     </div>
 </section>
 
@@ -273,9 +269,9 @@ footer{
     <h2 class="section-title">Contact</h2>
 
     <div class="contact">
-        <p>📧 aasthachauhan1308@gmail.com</p>
+        <p>📧 patelkhwaish710@gmail.com</p>
         <p>📍 Gujarat, India</p>
-        <p>💻 Web Developer & Cyber Security Learner</p>
+        <p>💻  Cyber Security Learner</p>
     </div>
 </section>
 
@@ -285,7 +281,7 @@ footer{
 
 <script>
 const text =
-"Frontend Developer • Java Programmer • Cyber Security Learner";
+"• Java Programmer • Cyber Security Learner";
 
 let i = 0;
 
